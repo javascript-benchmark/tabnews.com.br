@@ -9,7 +9,7 @@
     "@bytemd/react": "1.21.0",
     "@primer/octicons-react": "18.3.0",
     "@primer/react": "35.25.1",
-    "@resvg/resvg-js": "2.4.1",
+    "@resvg/resvg-js": "2.6.0",
     "@upstash/ratelimit": "0.4.2",
     "@upstash/redis": "1.20.4",
     "@vercel/analytics": "1.0.0",
